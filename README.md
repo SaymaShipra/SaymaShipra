@@ -1,4 +1,4 @@
-<img src="banner.jpg">
+![Banner](banner.jpg)
 
 # 👋 Hi, I'm Sayma Akter Shipra  
 ### 💻 Front-End Focused Full Stack Developer |React Enthusiast | Lifelong Learner
