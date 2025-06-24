@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sayma Shipra  
+# 👋 Hi, I'm Sayma Akter Shipra  
 ### 💻 Front-End Focused Full Stack Developer |React Enthusiast | Lifelong Learner
 
 # 💫 About Me:
