@@ -1,3 +1,5 @@
+![Banner](https://imgur.com/a/UD2tBaJ)
+
 # 👋 Hi, I'm Sayma Akter Shipra  
 ### 💻 Front-End Focused Full Stack Developer |React Enthusiast | Lifelong Learner
 
