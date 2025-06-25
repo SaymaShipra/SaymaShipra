@@ -1,7 +1,7 @@
-![Banner](banner.jpg)
+<img src="banner.jpg">
 
 # 👋 Hi, I'm Sayma Akter Shipra  
-### 💻 Front-End Focused Full Stack Developer |React Enthusiast | Lifelong Learner
+### 💻 Front-End Focused MERN Stack Developer |React Enthusiast | Lifelong Learner
 
 # 💫 About Me:
 
