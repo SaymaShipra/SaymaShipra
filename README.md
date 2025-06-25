@@ -1,4 +1,4 @@
-<img src="banner.jpg">
+<img src="Banner.jpg" alt="" />
 
 # 👋 Hi, I'm Sayma Akter Shipra  
 ### 💻 Front-End Focused MERN Stack Developer |React Enthusiast | Lifelong Learner
