@@ -8,7 +8,7 @@
 
 I'm a motivated Front-End Focused MERN Stack Developer passionate about building user-friendly interfaces and continuously exploring modern web technologies.Currently i'm exploring Next.js. 
 
-🔭  Currently working on a **Recipe Sharing Application** using React and Firebase   <br>🌱 Exploring **Express.js**, **MongoDB**, and advanced **JWT authentication**   <br> 💡 Building a **Construction Expense Tracker** for personal use  <br> 💬  Ask me about **frontend development**, **Firebase Auth**, or crafting smooth user interfaces    <br> 📫 How to reach me: Email:saymashipra@hotmail.com , WhatsApp:01316395749 <br>-⚡ Fun fact: I love turning coffee into code ☕
+🔭  Currently working on a **Recipe Sharing Application** using React and Firebase   <br>🌱 Exploring **Express.js**, **MongoDB**, and advanced **JWT authentication**   <br> 💡 Building a **Construction Expense Tracker** for personal use  <br> 💬  Ask me about **frontend development**, **Firebase Auth**, or crafting smooth user interfaces    <br> 📫 How to reach me: Email:saymashipra@hotmail.com  <br>-⚡ Fun fact: I love turning coffee into code ☕
 
 
 ## 🌐 Socials:
